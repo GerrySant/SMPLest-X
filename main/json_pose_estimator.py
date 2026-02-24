@@ -18,7 +18,6 @@ from main.base import Tester
 from main.config import Config
 from utils.data_utils import process_bbox, generate_patch_image
 from utils.inference_utils import non_max_suppression
-from utils.visualization_utils import render_mesh, perspective_projection
 
 
 # --------------------------------------------------
